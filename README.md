@@ -1,3 +1,5 @@
+[![Build Size](https://img.shields.io/bundlephobia/minzip/zustand?label=bundle%20size&style=flat&colorA=000000&colorB=000000)](https://bundlephobia.com/result?p=zustand)
+
 # Next.js App
 
 This is a template for [Next.js](https://nextjs.org/) with additional tools.
