@@ -1,4 +1,4 @@
-[![Build Size](https://img.shields.io/bundlephobia/minzip/zustand?label=bundle%20size&style=flat&colorA=000000&colorB=000000)](https://bundlephobia.com/result?p=zustand)
+[![Build Size](https://img.shields.io/bundlephobia/minzip/use-wasd?label=bundle%20size&style=flat&colorA=000000&colorB=000000)](https://bundlephobia.com/result?p=use-wasd)
 
 # Next.js App
 
