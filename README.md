@@ -1,4 +1,6 @@
-[![Build Size](https://img.shields.io/bundlephobia/minzip/use-wasd?label=bundle%20size&style=flat&colorA=000000&colorB=000000)](https://bundlephobia.com/result?p=use-wasd)
+[![Build Size](https://img.shields.io/bundlephobia/minzip/use-wasd?label=bundle%20size&style=flat&colorA=000000&colorB=000000)]([https://bundlephobia.com/result?p=use-wasd](https://bundlephobia.com/package/use-wasd@2.0.1))
+
+
 
 # Next.js App
 
